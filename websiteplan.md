@@ -45,3 +45,17 @@ Videos: Not planned
 Tables or Lists: Lists of examples or resources  
 Forms: Not planned  
 
+## 4. Navigation Plan
+
+Navigation menu labels:  
+Home, Code Editor, HTML, CSS, Accessibility, Ethics, Validation, AI  
+
+Footer links:  
+GitHub repository  
+
+## 5. Accessibility Factors
+
+1. Images that show content will contain alt text.  
+2. Headings will follow a structure with one H1, then H2 and H3 sections.  
+3. Color combinations will meet the contrast rules 
+
