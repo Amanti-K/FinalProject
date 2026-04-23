@@ -18,6 +18,7 @@ This page will introduce the website and explain its purpose. It will give a sho
 
 **Using the Code Editor**  
 This page will explain the code editor used, such as VS Code. It will describe how it helped with writing and organizing code and may mention alternatives like Notepad++.
+
 **HTML – Semantic Elements**  
 This page will explain semantic HTML elements and their purpose. It will include examples such as header, footer, main, and section, and explain why structure is important.
 
@@ -35,4 +36,12 @@ This page will explain how HTML and CSS code can be checked for errors. It will 
 
 **Using Generative AI**  
 This page will explain how AI tools were used during the course. It will include advantages and limitations of using AI.
+
+## 3. Planned Media And Assets
+
+Images: Screenshots of code or examples  
+Icons: Simple icons for sections or navigation  
+Videos: Not planned  
+Tables or Lists: Lists of examples or resources  
+Forms: Not planned  
 
