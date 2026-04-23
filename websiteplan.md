@@ -9,4 +9,30 @@
 5. Accessibility: accessibility.html  
 6. Ethical Issues: ethics.html  
 7. Validation: validation.html  
-8. Using Generative AI: ai.html  
+8. Using Generative AI: ai.html
+
+## 2. Content Details for Each Page
+
+**Home Page**  
+This page will introduce the website and explain its purpose. It will give a short summary of what users can expect and provide links to all other pages.
+
+**Using the Code Editor**  
+This page will explain the code editor used, such as VS Code. It will describe how it helped with writing and organizing code and may mention alternatives like Notepad++.
+**HTML – Semantic Elements**  
+This page will explain semantic HTML elements and their purpose. It will include examples such as header, footer, main, and section, and explain why structure is important.
+
+**CSS Layout and Responsive Design**  
+This page will cover layout methods like Grid and Flexbox. It will also explain responsive design and why websites need to work on different screen sizes.
+
+**Accessibility**  
+This page will explain accessibility in web design. It will include examples like alt text, headings, and color contrast, and explain why it matters.
+
+**Ethical Issues**  
+This page will discuss privacy concerns and proper handling of user data. It will also explain the value of honesty in web design.
+
+**Validation**  
+This page will explain how HTML and CSS code can be checked for errors. It will also describe why validation is important.
+
+**Using Generative AI**  
+This page will explain how AI tools were used during the course. It will include advantages and limitations of using AI.
+
