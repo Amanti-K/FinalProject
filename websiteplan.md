@@ -59,3 +59,26 @@ GitHub repository
 2. Headings will follow a structure with one H1, then H2 and H3 sections.  
 3. Color combinations will meet the contrast rules 
 
+## 6. File and Folder Plan
+
+project-folder  
+index.html  
+
+pages  
+code-editor.html  
+html-semantic.html  
+css-layout.html  
+accessibility.html  
+ethics.html  
+validation.html  
+ai.html  
+
+css  
+style.css  
+
+/img  
+images and icons  
+
+## 7. Code Validation
+
+I will use online tools such as the W3C HTML and CSS validators to check my code for errors. If there are any issues, I will fix them to make sure the website follows proper coding standards.
