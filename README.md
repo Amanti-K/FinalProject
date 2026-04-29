@@ -1,1 +1,1 @@
-Professor I had to move my code into github and edit it through here because I could not get my videos to load so there are quite a few changes 
+Professor I had to move my code into github and edit it through here because I could not get my videos to load so there are quite a few changes and if the videos do not load I would love to know because they are loading just fine on my end while the site is deployed.
